@@ -67,7 +67,7 @@ max       6.824800    12.951600    17.927400     2.449500     1.000000
 
 Clone the repository and install dependencies:  
 ```sh  
-git clone https://github.com/muhdadbachmid/banknote-authentication.git  
+git clone https://github.com/muhdadbachmid/bank-note-authentication.git  
 cd banknote-authentication  
 pip install -r requirements.txt  
 ```
