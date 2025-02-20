@@ -122,10 +122,12 @@ The dataset is nearly balanced between class 0 and class 1, with a **mean class 
 4. **Deployment Recommendations**:
    - Integrate this model into banking systems for automated counterfeit detection.
    - Expand the dataset with more diverse images to enhance model robustness.
+   - Improve preprocessing steps to enhance model performance.
 
 ---
 
 ## **8. References**
 1. UCI Machine Learning Repository - Banknote Authentication Dataset.
 2. Hastie, T., Tibshirani, R., & Friedman, J. (2009). **The Elements of Statistical Learning**. Springer.
+3. Pedregosa, F., Varoquaux, G., Gramfort, A., et al. (2011). **Scikit-learn: Machine Learning in Python**. Journal of Machine Learning Research.
 
